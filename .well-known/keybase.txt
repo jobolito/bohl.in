@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jobolito
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bohl.in
+  * I am jobolito (https://keybase.io/jobolito) on keybase.
+  * I have a public key ASDAA8L0oTFtIyqskWdjJLSW_YKFfjhPeJ7puJa3Ons-4wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c003c2f4a1316d232aac91676324b496fd82857e384f789ee9b896b73a7b3ee30a",
+      "host": "keybase.io",
+      "kid": "0120c003c2f4a1316d232aac91676324b496fd82857e384f789ee9b896b73a7b3ee30a",
+      "uid": "6dabbd776cb289f79dcd4ba2e5ff0e19",
+      "username": "jobolito"
+    },
+    "merkle_root": {
+      "ctime": 1576504604,
+      "hash": "15b4c27bda1376761c592e80fa445b66edf79db8afcdc5fe2885a14e64296f938a31ab89fdc3f83c6ed2a5b0f3a5dfbf6d73708dceb82a99dbd8feed1200edec",
+      "hash_meta": "b3f382b9f3982c795a2de536c65af50a7bceefde0eda8396594635a499d55067",
+      "seqno": 13646631
+    },
+    "service": {
+      "entropy": "xxaLaLCQJ8+c+/37wYB1c9HS",
+      "hostname": "bohl.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1576504616,
+  "expire_in": 504576000,
+  "prev": "d285646b03b922ace2e6558dcbb26e4b13ab488b39a61eabfc90274c08ba03ba",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwAPC9KExbSMqrJFnYyS0lv2ChX44T3ie6biWtzp7PuMKp3BheWxvYWTESpcCBsQg0oVkawO5Iqzi5lWNy7JuSxOrSIs5ph6r/JAnTAi6A7rEIBTdT2pnwIfNAIknMC8/6of5/zUulJGqYTo7pvJfZY+LAgHCo3NpZ8RAR302V/Q/ZtqXx45pn/UOdFF9FRsy2eQYnfQR+90wJyjNfKLEXcWsPkfYbPhxsvovi9tb0uYA2JSPgHZr0pH4D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ8D0GIHxGhxjfUSPaP6vn6JdeR5brhOXKqg32jmSYX/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jobolito
+
+==================================================================
